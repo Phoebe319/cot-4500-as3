@@ -1,6 +1,6 @@
 # cot-4500-as3
 ## What it Does:
-This code performs Euler's Method and Runge-Kutta Method for the function t-y^2. 
+This code performs Euler's Method and Runge-Kutta Method for the function t-y^2. Both functions are called with input variables start value, stop value, number of iterations, the initial x value, and the initial y value.
 
 ## How it works:
 The functions are coded under main/assignment_3.py. I then call the functions in test/test_assignment_3.py.
